@@ -1,0 +1,27 @@
+{
+  "namespace": "scalable.solutions.message",
+  "type": "record",
+  "name": "EventMessage",
+  "fields": [
+    {
+      "name": "machine",
+      "type": "string"
+    },
+    {
+      "name": "id",
+      "type": "string"
+    },
+    {
+      "name": "date",
+      "type": "long"
+    },
+    {
+      "name": "status",
+      "type": "string"
+    },
+    {
+      "name": "building",
+      "type": "string"
+    }
+  ]
+}

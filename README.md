@@ -1,0 +1,1 @@
+## Kafka Avro schema example
